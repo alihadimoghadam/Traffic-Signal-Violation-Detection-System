@@ -388,7 +388,7 @@ def draw_boxes(image, boxes, line, labels, obj_thresh, dcnt):
         
     return image
 
-weights_path = "G:/Traffic Violation Detection/yolov3.weights"
+weights_path = "D:/TSVD/yolov3.weights"
 # set some parameters
 net_h, net_w = 416, 416
 obj_thresh, nms_thresh = 0.5, 0.45
