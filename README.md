@@ -7,6 +7,9 @@ This is a software for practice of developing a system from completely scratch. 
 # Introduction
 The increasing number of cars in cities can cause high volume of traffic, and implies that traffic violations become more critical nowadays in Bangladesh and also around the world. This causes severe destruction of property and more accidents that may endanger the lives of the people. To solve the alarming problem and prevent such unfathomable consequences, traffic violation detection systems are needed. For which the system enforces proper traffic regulations at all times, and apprehend those who does not comply. A traffic violation detection system must be realized in real-time as the authorities track the roads all the time. Hence, traffic enforcers will not only be at ease in implementing safe roads accurately, but also efficiently; as the traffic detection system detects violations faster than humans. This system can detect traffic light violation in real-time. A user friendly graphical interface is associated with the system to make it simple for the user to operate the system, monitor traffic and take action against the violations of traffic rules.
 
+# System Overview
+![image](https://user-images.githubusercontent.com/72919682/235343349-02b93190-fcc9-44ca-9f43-d3e81c6aa95f.png)
+
 # Objectives
 The goal of the project is to automate the traffic signal violation detection system and make it easy for the traffic police department to monitor the traffic and take action against the violated vehicle owner in a fast and efficient way. Detecting and tracking the vehicle and their activities accurately is the main priority of the system.
 
@@ -35,12 +38,9 @@ The system will show output until the last frame of the footage. In background a
 
 After processing a video footage, the administrator can add another video footage from the initial file manager (Figure-2). If the work is complete the administrator can quit using ‘Exit’ item from File option.
 
-Libraries used for graphical user interface:
+# Libraries used for graphical user interface:
 
 -Tkinter
-
-# System Overview
-![image](https://user-images.githubusercontent.com/72919682/235343349-02b93190-fcc9-44ca-9f43-d3e81c6aa95f.png)
 
 # Software Overview
 ![image](https://user-images.githubusercontent.com/72919682/235343392-a8c3d752-d044-4b7f-bbdb-65998692544e.png)
