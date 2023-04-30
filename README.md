@@ -38,3 +38,10 @@ After processing a video footage, the administrator can add another video footag
 Libraries used for graphical user interface:
 
 -Tkinter
+
+# System Overview
+![image](https://user-images.githubusercontent.com/72919682/235343349-02b93190-fcc9-44ca-9f43-d3e81c6aa95f.png)
+
+# Software Overview
+![image](https://user-images.githubusercontent.com/72919682/235343392-a8c3d752-d044-4b7f-bbdb-65998692544e.png)
+
