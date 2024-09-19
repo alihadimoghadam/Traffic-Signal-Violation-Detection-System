@@ -1,0 +1,7 @@
+
+tensorflow
+keras
+opencv-python
+Pillow
+numpy
+imageio
