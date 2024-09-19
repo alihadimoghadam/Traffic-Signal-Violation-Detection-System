@@ -114,7 +114,6 @@ The system generates an output video (`output.mp4`) in the `output` folder, whic
 ## Contributors
 ------------
 *   **Your Name** - [@alihadimoghadam](https://github.com/alihadimoghadam)
-*   **Other Contributors**
 
 ## License
 -------
